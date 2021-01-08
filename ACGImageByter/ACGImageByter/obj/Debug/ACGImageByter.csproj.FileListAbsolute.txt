@@ -1,0 +1,10 @@
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\bin\Debug\ACGImageByter.exe.config
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\bin\Debug\ACGImageByter.exe
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\bin\Debug\ACGImageByter.pdb
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.csprojAssemblyReference.cache
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.MainForm.resources
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.Properties.Resources.resources
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.csproj.GenerateResource.cache
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.csproj.CoreCompileInputs.cache
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.exe
+W:\C#src\ACGImageByter\ACGImageByter\ACGImageByter\obj\Debug\ACGImageByter.pdb
